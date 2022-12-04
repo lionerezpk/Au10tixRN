@@ -1,0 +1,37 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Ploni ML v2 AAA Black.otf",
+      "sha1": "2e83f52e2737b505ff098f32817bd47ca2d08e4a"
+    },
+    {
+      "path": "assets/fonts/Ploni ML v2 AAA Bold.otf",
+      "sha1": "944ab5e00f7813b5f660a7f64b52411387ee4253"
+    },
+    {
+      "path": "assets/fonts/Ploni ML v2 AAA DemiBold.otf",
+      "sha1": "10e085481f6567d260a34e5ae83712bc3ad4a093"
+    },
+    {
+      "path": "assets/fonts/Ploni ML v2 AAA Light.otf",
+      "sha1": "65138ca67f319962109566b7580053cc5d7e00f2"
+    },
+    {
+      "path": "assets/fonts/Ploni ML v2 AAA Medium.otf",
+      "sha1": "69b6fc8d940ce5ad581c0c1f81b08af14a121129"
+    },
+    {
+      "path": "assets/fonts/Ploni ML v2 AAA Regular.otf",
+      "sha1": "b23a9ca237a814eb39abee1dfdcb7293e6af549a"
+    },
+    {
+      "path": "assets/fonts/Ploni ML v2 AAA UltraBold.otf",
+      "sha1": "51d7bb610163701247f6ef7a5b90c328cb73e729"
+    },
+    {
+      "path": "assets/fonts/Ploni ML v2 AAA UltraLight.otf",
+      "sha1": "6d8e82e35cf5fc9626e2726d1862fe0640ea4d92"
+    }
+  ]
+}
